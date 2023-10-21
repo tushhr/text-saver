@@ -21,15 +21,32 @@ An extension to save all your highlighted text in one place!
 
 PS: No information is sent from your desktop, the magic happens in the browser!
 
+## ScrrenShots
+
+Select the texts, right-click - Your text is saved successfully!
+
+![Screenshot 2023-10-21 231017](https://github.com/tushhr/text-saver/assets/63875632/a46a14fc-9680-4a90-8b39-32fcfd57b54a)
+
+To access your saved texts
+Click on the top right, and select Text Saver
+
+![Screenshot 2023-10-21 231053](https://github.com/tushhr/text-saver/assets/63875632/c6ba1795-636b-40ae-94e1-c8a6cebf81d1)
+
+Clicking on any link, will redirect you to that specific page and will highlight the text
+
+![Screenshot 2023-10-21 231231](https://github.com/tushhr/text-saver/assets/63875632/15f2b099-d811-4f05-94e6-635990d41d29)
+
+![Screenshot 2023-10-21 231308](https://github.com/tushhr/text-saver/assets/63875632/0e8eb7a4-95fd-4d08-90bf-33b9ee6c893d)
 
 ### Installation
+
 
 ```
 git clone https://github.com/tushhr/text-saver
 
 Open Chrome or Brave
 
-Click on extensions from the menu.
+Click on extensions from the menu, and then manage extensions.
 
 Click on load unpacked - top left.
 
@@ -37,6 +54,22 @@ Select the `folder` - text-saver
 
 Tada! That's it :)
 ```
+
+### Installation Screenshots
+
+- Click on extension, then manage extension
+
+![Screenshot 2023-10-21 232730](https://github.com/tushhr/text-saver/assets/63875632/5d9916cf-ebf2-436f-aaeb-db78e07f0308)
+
+- Click on `Load Unpacked` - top left.
+
+![Screenshot 2023-10-21 232829](https://github.com/tushhr/text-saver/assets/63875632/7344d371-4470-486d-981f-cf91bd727eb3)
+
+- Select the `folder` - text-saver
+
+![image](https://github.com/tushhr/text-saver/assets/63875632/c9360c72-c45d-414c-ac7e-9708d121352b)
+
+- That's it. You are good to go!
 
 <br>
 
