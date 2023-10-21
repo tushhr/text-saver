@@ -1,0 +1,27 @@
+html {
+    font-size: 10px; /* Set the root font size to 10 pixels */
+}
+
+.root {
+    font-size: 1.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-wrapper {
+    max-width: 126rem;
+}
+
+.saved-text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.saved-text {
+    border: 0.1rem solid #e0e0e0;
+    box-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.2); 
+    padding: 0.2rem 1.6rem;
+    border-radius: 0.8rem;
+}

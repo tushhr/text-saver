@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Text Saver",
+    "version": "0.1",
+    "description": "Save selected text.",
+    "author": "Tushhr",
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "storage",
+        "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": { }
+  }
+  
