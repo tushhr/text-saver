@@ -21,7 +21,7 @@ An extension to save all your highlighted text in one place!
 
 PS: No information is sent from your desktop, the magic happens in the browser!
 
-## ScrrenShots
+## ScreenShots
 
 Select the texts, right-click - Your text is saved successfully!
 
@@ -32,7 +32,7 @@ Click on the top right, and select Text Saver
 
 ![Screenshot 2023-10-21 231053](https://github.com/tushhr/text-saver/assets/63875632/c6ba1795-636b-40ae-94e1-c8a6cebf81d1)
 
-Clicking on any link, will redirect you to that specific page and will highlight the text
+Clicking on any link will redirect you to that specific page and will highlight the text
 
 ![Screenshot 2023-10-21 231231](https://github.com/tushhr/text-saver/assets/63875632/15f2b099-d811-4f05-94e6-635990d41d29)
 
@@ -42,7 +42,7 @@ Clicking on any link, will redirect you to that specific page and will highlight
 
 
 ```
-git clone https://github.com/tushhr/text-saver
+git clone https://github.com/tushhr/text-saver, if not a git user, please see [this](https://github.com/tushhr/text-saver#for-users-without-git)
 
 Open Chrome or Brave
 
@@ -71,7 +71,17 @@ Tada! That's it :)
 
 - That's it. You are good to go!
 
-<br>
+<be>
+
+#### For users without git
+- Click on `Code` - that green button. Yes, that one.
+- Click on `download zip`
+![image](https://github.com/tushhr/text-saver/assets/63875632/e9946da5-906c-4d6f-a971-eef42b1b89e9)
+
+- Unzip the file, and rename the folder inside as `text-saver`. (Please look carefully at the path in the screenshot)
+![image](https://github.com/tushhr/text-saver/assets/63875632/63bf001f-52ff-4c41-b435-f9d706e719df)
+
+- [Next steps](https://github.com/tushhr/text-saver#installation-screenshots)
 
 
 ## This project is developed by
