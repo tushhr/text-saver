@@ -40,20 +40,18 @@ Clicking on any link will redirect you to that specific page and will highlight 
 
 ### Installation
 
+- `git clone https://github.com/tushhr/text-saver`, if not a git user, please see [this](https://github.com/tushhr/text-saver#for-users-without-git)
 
-```
-git clone https://github.com/tushhr/text-saver, if not a git user, please see [this](https://github.com/tushhr/text-saver#for-users-without-git)
+- Open Chrome or Brave
 
-Open Chrome or Brave
+- Click on extensions from the menu, and then manage extensions.
 
-Click on extensions from the menu, and then manage extensions.
+- Click on load unpacked - top left.
 
-Click on load unpacked - top left.
+- Select the `folder` - text-saver
 
-Select the `folder` - text-saver
+- Tada! That's it :)
 
-Tada! That's it :)
-```
 
 ### Installation Screenshots
 
